@@ -6,6 +6,8 @@
 mod message;
 pub mod parser;
 mod codec;
+mod client;
 
+pub use client::Client;
 pub use codec::DnsCodec;
 pub use message::{Flags, Header, Message, Name, Opcode, Question, Rcode, ResourceRecord};
