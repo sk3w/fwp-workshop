@@ -1,3 +1,3 @@
 # Fun With Protocols Workshop
 
-## Step 1 - Data Types
+## Step 2 - Parser
