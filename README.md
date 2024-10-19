@@ -1,3 +1,3 @@
 # Fun With Protocols Workshop
 
-## Step 3 - Codec
+## Step 4 - Client
