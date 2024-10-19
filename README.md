@@ -1,3 +1,3 @@
 # Fun With Protocols Workshop
 
-## Step 2 - Parser
+## Step 3 - Codec
